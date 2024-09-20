@@ -1,0 +1,3 @@
+F:\Gimcy\Github\Vs-Code\api\common\bin\Release\net8.0\publish\common.dll
+F:\Gimcy\Github\Vs-Code\api\common\bin\Release\net8.0\publish\common.deps.json
+F:\Gimcy\Github\Vs-Code\api\common\bin\Release\net8.0\publish\common.pdb

@@ -1,0 +1,14 @@
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\webapi.exe
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\appsettings.Development.json
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\appsettings.json
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\webapi.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\webapi.deps.json
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\webapi.runtimeconfig.json
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\webapi.pdb
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\Microsoft.AspNetCore.OpenApi.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\common.dll
+F:\Gimcy\Github\Vs-Code\api\webapi\bin\Release\net8.0\publish\common.pdb
